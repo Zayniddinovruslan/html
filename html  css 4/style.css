@@ -1,0 +1,550 @@
+/*reset*/
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+
+   /*main styling*/
+   html,
+   body  {
+     font-family: sans-serif;
+   }
+
+   section {
+    width: 100%;
+    height: 100%;
+   }
+
+   header {
+    display: inline-block;
+    width: 100%;
+  background-color: rgb(255, 255, 255);
+   }
+   
+   .nav {
+    margin-left: 70px;
+   }
+
+   .qq {
+    padding: 20px;
+    display: inline-block;
+    margin-left: 70px;
+    
+   }
+
+   ul {
+    display: inline-block;
+    margin-left: 430px;
+   }
+
+   li {
+    list-style: none;
+    display: inline-block;
+   }
+
+   li a {
+    padding: 10px 20px;
+    text-decoration: none;
+    color: black;
+   }
+
+   nav button {
+    border-color: rgb(7, 205, 205);
+    color: rgb(7, 205, 205);
+    padding: 10px 30px;
+    margin-left: 60px;
+    border-radius: 18px;
+   }
+
+   .box {
+    background-image: url('images/slider-right-dec.jpg ') ;
+   }
+
+   .q {
+
+    color: blue;
+    margin-top: 300px;
+    margin-left: 70px;
+   }
+
+   .w {
+    margin-left: 70px;
+    margin-top: 10px;
+   }
+
+   .e {
+    margin-left: 70px;
+    margin-top: 10px;
+    padding: 10px;
+   }
+
+   .r {
+    border-color: rgb(7, 205, 205);
+    color: rgb(7, 205, 205);
+    padding: 10px 30px;
+    margin-left: 75px;
+    border-radius: 18px;
+    margin-top: 15px;
+   }
+
+   .t {
+    display: inline-block;
+    float: right;
+    margin-top: -400px;
+    margin-right: 100px;
+   }
+   
+   .y {
+    display: inline-block;
+  
+   }
+
+   .u {
+    margin-top: 300px;
+    margin-left: 70px;
+    display: inline-block;
+   }
+
+   .o {
+    display: inline-block;
+    float: right;
+    margin-left: 550px;
+    margin-top: -460px;
+   }
+
+   .p {
+    color: blue;
+   }
+
+   .a {
+    color: blue;
+   }
+
+   .d {
+    margin-top: 10px;
+   }
+
+   .s {
+    width: 70%;
+    margin-top: 50px;
+   }
+
+   .h {
+    display: inline-block;
+    margin-top: 40px;
+    padding: 10px 60px;
+    margin: 30px;
+    margin-left:-50px ;
+    border-radius: 50%;
+   }
+
+
+
+   .k {
+    background-image: url("images/services-left-dec.jpg");
+    text-align: center;
+    margin-top: 90px;
+   }
+
+   .l {
+    color: blue;
+   }
+
+   .z {
+    color: blue;
+   }
+
+   .x {
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    padding: 29px 30px;
+    margin: 30px;
+    box-shadow: 1px 2px 5px 5px grey;
+   }
+
+   .c {
+    box-shadow: 1px 2px 3px 3px gray;
+    background-color: #ffffff;
+    width: 80%;
+    padding: 50px 60px;
+    margin-left: 20px;
+    display: inline-block;
+   }
+   
+
+   .b {
+    color:blue;
+    margin-right: 950px;
+   }
+   .v {
+    width: 40%;
+    margin-left: 10px;
+    margin-top: 30px;
+    
+   }
+
+   .n {
+    margin-right: 860px;
+    padding: 0px;
+    margin-top: 30px;
+   } 
+
+   .m {
+    margin-top: 30px;
+    margin-right: 850px;
+   }
+
+   .qv {
+    display: inline-block;
+    float: right;
+    margin-top: -300px;
+   }
+
+   .www {
+    background-image: url("images/quote-bg-v3.jpg");
+    margin-top: 70px;
+    padding: 20px;
+    color: #ffffff;
+   }
+
+   .wew {
+    display: inline-block;
+    background-color: #ffffff;
+    color: gray;
+    padding: 25px 20px;
+    margin-top: 50px;
+    border-radius: 40px;
+  
+   }
+
+   .ewe {
+    display: inline-block;
+    padding: 0px 70px;
+   }
+
+   .scs {
+    background-image: url("images/services-left-dec.jpg");
+    margin-top: 70px;
+    text-align: center;
+    border-radius: 50px;
+   }
+
+   .lal {
+    color: blue;
+    margin-left: 90px;
+   }
+
+   .zaz {
+    color: blue;
+   }
+
+   .vdv {
+    margin-left: 90px;
+    margin-top: 10px;
+   }
+
+  
+   .mnm {
+    margin-top: 30px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    margin: 5px;
+    border-radius: 10px;
+
+   }
+
+   .fdf {
+    width: 50%;
+   }
+
+   .fgf {
+    background-image: url("images/portfolio-left-dec.jpg");
+    text-align: center;
+    margin-top: 70px;
+   }
+
+   .vvv {
+    color: blue;
+    padding: 20px;
+   }
+
+   .opp {
+    color: blue;
+   }
+
+   .xsx {
+    width: 18%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5%;
+    margin-left: -10px;
+    margin-top: 70px;
+    box-shadow: 1px 1px 1px 1px gray;
+    padding: 20px;
+    display: inline-block;
+   }
+
+   .sds {
+    border-radius: 5%;
+    width: 100%;
+   }
+
+   .waw {
+    display: inline-block;
+    margin-top: 15px;
+
+   }
+
+   .tyt {
+    background-color: blue;
+    color: #ffffff;
+    border-radius: 15px;
+    padding: 5px 8px;
+    margin-right: 70px;
+    border-color: blue;
+    display: inline-block;
+   }
+
+   .vfv {
+    width: 90%;
+    margin-left: 10px;
+    margin-top: 15px;
+   }
+
+   .fvf {
+    margin-top: 15px;
+   }
+
+   .uyu {
+    display: inline-block;
+    margin-top: 15px;
+   }
+
+   .tut {
+    margin-right:30px;
+   }
+
+   .kl {
+     margin-right: 50px;
+   }
+
+   .aqa {
+    background-color: rgb(255, 255, 255);
+    color: #002efc;
+    border-radius: 15px;
+    padding: 1px 5px;
+    border-color: #002efc;
+    display: inline-block;
+    margin-top: -59px;
+   }
+
+   .aass {
+    width: 18%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5%;
+    margin-left: 30px;
+    margin-top: 100px;
+    box-shadow: 1px 1px 1px 1px gray;
+    padding: 20px;
+    display: inline-block;
+   }
+
+   .lkl {
+    border-radius: 5%;
+    width: 100%;
+   }
+
+   .ghg {
+    display: inline-block;
+    margin-top: 15px;
+
+   }
+
+   .ede {
+    background-color: blue;
+    color: #ffffff;
+    border-radius: 15px;
+    padding: 5px 8px;
+    margin-right: 30px;
+    border-color: blue;
+    display: inline-block;
+   }
+
+   .jhj {
+    width: 90%;
+    margin-left: 10px;
+    margin-top: 15px;
+   }
+
+   .ddd {
+    margin-top: 15px;
+   }
+   
+
+
+
+
+   .ssaa {
+    width: 18%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5%;
+    margin-left: 30px;
+    margin-top: 100px;
+    box-shadow: 1px 1px 1px 1px gray;
+    padding: 20px;
+    display: inline-block;
+   }
+
+   .qw1 {
+    border-radius: 5%;
+    width: 100%;
+   }
+
+   .dfd {
+    display: inline-block;
+    margin-top: 15px;
+
+   }
+
+   .ede {
+    background-color: blue;
+    color: #ffffff;
+    border-radius: 15px;
+    padding: 5px 8px;
+    margin-right: 30px;
+    border-color: blue;
+    display: inline-block;
+   }
+
+   .pap{
+    width: 90%;
+    margin-left: 10px;
+    margin-top: 15px;
+   }
+
+   .ffff {
+    margin-top: 15px;
+   }
+   
+
+
+
+   .oopp{
+    width: 18%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5%;
+    margin-left: 30px;
+    margin-top: 100px;
+    box-shadow: 1px 1px 1px 1px gray;
+    padding: 20px;
+    display: inline-block;
+   }
+
+   .llkk {
+    border-radius: 5%;
+    width: 100%;
+   }
+
+   .gghh {
+    display: inline-block;
+    margin-top: 15px;
+
+   }
+
+   .rrtt {
+    background-color: blue;
+    color: #ffffff;
+    border-radius: 15px;
+    padding: 5px 8px;
+    margin-right: 30px;
+    border-color: blue;
+    display: inline-block;
+   }
+
+   .jjhh {
+    width: 90%;
+    margin-left: 10px;
+    margin-top: 15px;
+   }
+
+   .dmm {
+    margin-top: 15px;
+   }
+
+   .dddd {
+   
+    margin-top: 70px;
+   }
+
+   .lll {
+    display: inline-block;
+    
+   }
+   
+
+   .nnn {
+    color: blue;
+   }
+
+  
+
+
+   .sasam {
+    width: 110%;
+    display: inline-block;
+    margin-top: 50px;
+   }
+
+   .eey {
+    margin-left:300px ;
+   }
+
+
+   .sasn {
+    display: inline-block;
+    margin-top: 50px;
+    float: right;
+    margin-top: -530px;
+    margin-right: 250px;
+   }
+
+   .pio {
+    text-align: center;
+    display: inline-block;
+    padding: 20px 30px;
+    margin: 5px;
+    box-shadow: 1px 2px 2px 3px gray;
+   }
+
+
+   .erta {
+    padding: 15px 35px ;
+    margin: 30px ;
+    border-radius: 35px;
+    margin-left: -7px;
+   }
+
+   .ruslan{
+    display: inline-block;
+    float: right;
+    margin-top: -230px;
+    margin-right: 18px;
+    
+   }
+
+   .nina {
+    border-color: #002efc;
+    color: #002efc;
+    padding: 15px 230px;
+    border-radius: 35px;
+   }
+
+   .ojj {
+    background-image: url("images/footer-bg-v3.jpg");
+    margin-top: 130px;
+    text-align: center;
+    color: #ffffff;
+   }
+
+   
